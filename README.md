@@ -14,3 +14,8 @@ $ mvn spring-boot:run
 
 $ curl -v localhost:8080/books
 ```
+
+Build and skip test
+```
+mvn clean package -Dmaven.test.skip=true
+```
