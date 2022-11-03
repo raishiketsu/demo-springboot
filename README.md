@@ -19,3 +19,8 @@ Build and skip test
 ```
 mvn clean package -Dmaven.test.skip=true
 ```
+
+Run jar
+```
+java -jar target/spring-rest-hello-world-1.0.jar 
+```
