@@ -10,6 +10,8 @@ $ apt install maven
 ```
 
 ## 2.git からソースコードをcloneし、テスト実行
+git  clone or use spring initializr
+https://start.spring.io/
 ```
 $ git clone https://github.com/mkyong/spring-boot.git
 $ cd spring-rest-hello-world
